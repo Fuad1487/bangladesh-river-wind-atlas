@@ -1,0 +1,112 @@
+{
+ "period": "2016-2025",
+ "time_steps": 87672,
+ "rivers": "bangladesh_rivers_hydrorivers.geojson",
+ "national_mean": 3.7871,
+ "national_median": 3.8259,
+ "min_block": [
+  1.6838,
+  "Sylhet"
+ ],
+ "max_block": [
+  5.5132,
+  "Noakhali",
+  "A1416"
+ ],
+ "wpd_mean": 68.2242,
+ "wpd_max": 206.3702,
+ "jjas": 4.5001,
+ "djf": 3.1951,
+ "on": 2.9003,
+ "k_min": 1.7089,
+ "k_max": 2.2773,
+ "k_mean": 2.0676,
+ "n_over5": 67,
+ "over5_districts": {
+  "Bhola": 15,
+  "Noakhali": 13,
+  "Patuakhali": 12,
+  "Chittagong": 9,
+  "Bagerhat": 6,
+  "Cox's Bazar": 5,
+  "Khulna": 3,
+  "Satkhira": 3,
+  "Barguna": 1
+ },
+ "over5_zones": {
+  "Coastal belt": 62,
+  "River corridors": 3,
+  "Other inland": 2
+ },
+ "n_corridor_blocks": 290,
+ "meghna_south_22.8": 4.8638,
+ "meghna_rest": 4.0434,
+ "corridor_mean10": 2.4328,
+ "corridor_alpha": 0.2079,
+ "peak_meghna": 6.1143,
+ "peak_padma": 5.1253,
+ "lat_band_diffs": [
+  0.3,
+  0.13,
+  0.26,
+  0.6,
+  -0.05
+ ],
+ "river_ge4_by_corridor": {
+  "Meghna": 46,
+  "Padma": 26
+ },
+ "ahp_classes": {
+  "Very low": 230,
+  "Low": 459,
+  "Moderate": 758,
+  "High": 123,
+  "Very high": 26
+ },
+ "corridor_share_all": 0.1817,
+ "corridor_share_veryhigh": 0.5385,
+ "top24_overlap": 11,
+ "ahp_top5": [
+  [
+   "A1446",
+   "Noakhali",
+   "",
+   5.509,
+   22.263,
+   0.859
+  ],
+  [
+   "A1500",
+   "Bhola",
+   "Meghna",
+   5.404,
+   4.535,
+   0.846
+  ],
+  [
+   "A1474",
+   "Bhola",
+   "Meghna",
+   5.325,
+   0.323,
+   0.835
+  ],
+  [
+   "A1445",
+   "Bhola",
+   "Meghna",
+   5.407,
+   13.072,
+   0.834
+  ],
+  [
+   "A1415",
+   "Noakhali",
+   "",
+   5.457,
+   26.475,
+   0.827
+  ]
+ ],
+ "base_corridor_share_top24": 0.5417
+}

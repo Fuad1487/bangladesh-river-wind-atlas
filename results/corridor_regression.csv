@@ -1,0 +1,13 @@
+test,buffer_km,n_nodes,n_corridor,raw_corridor_mean,raw_other_mean,raw_difference,adjusted_effect_ms,ci95_low,ci95_high,p_value,r2_model,coef_log_dcoast,coef_lat
+"All four rivers, all Bangladesh nodes",10,199,30,3.893,3.738,0.155,0.215,0.112,0.319,0.0,0.769,-0.367,-0.036
+"All four rivers, all Bangladesh nodes",15,199,36,3.884,3.734,0.151,0.215,0.112,0.319,0.0,0.771,-0.37,-0.034
+"All four rivers, all Bangladesh nodes",25,199,58,3.854,3.723,0.131,0.228,0.138,0.317,0.0,0.782,-0.368,-0.044
+"All four rivers, all Bangladesh nodes",30,199,71,3.86,3.706,0.155,0.241,0.146,0.335,0.0,0.789,-0.366,-0.047
+"All four rivers, inland nodes only (>150 km from coast)",10,91,16,3.705,3.394,0.31,0.05,-0.056,0.156,0.3559,0.857,-2.612,0.681
+"Jamuna + Brahmaputra only, inland nodes (>150 km from coast)",10,91,12,3.645,3.419,0.226,0.105,-0.007,0.218,0.065,0.86,-2.493,0.632
+"All four rivers, inland nodes only (>150 km from coast)",15,91,20,3.712,3.375,0.337,0.065,-0.03,0.161,0.1776,0.859,-2.607,0.684
+"Jamuna + Brahmaputra only, inland nodes (>150 km from coast)",15,91,14,3.64,3.414,0.226,0.118,0.008,0.229,0.0363,0.862,-2.45,0.617
+"All four rivers, inland nodes only (>150 km from coast)",25,91,33,3.701,3.305,0.396,0.09,-0.016,0.196,0.0948,0.862,-2.478,0.643
+"Jamuna + Brahmaputra only, inland nodes (>150 km from coast)",25,91,25,3.648,3.374,0.274,0.14,-0.011,0.291,0.0701,0.867,-2.182,0.516
+"All four rivers, inland nodes only (>150 km from coast)",30,91,40,3.69,3.26,0.431,0.099,-0.025,0.224,0.117,0.863,-2.4,0.623
+"Jamuna + Brahmaputra only, inland nodes (>150 km from coast)",30,91,30,3.63,3.36,0.271,0.17,-0.003,0.343,0.0547,0.872,-1.99,0.447
