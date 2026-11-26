@@ -1,0 +1,9 @@
+set,season,n_pairs,obs_mean_ms,era5_mean_ms,bias_ms,rmse_ms,r
+All stations,Monsoon (JJAS),282403,1.53,3.32,1.79,2.69,0.37
+All stations,Post-monsoon (ON),136967,0.77,2.03,1.26,1.9,0.33
+All stations,Pre-monsoon (MAM),203944,1.54,2.78,1.25,2.29,0.4
+All stations,Winter (DJF),195897,0.81,2.14,1.33,1.93,0.27
+Usable stations,Monsoon (JJAS),101971,2.98,3.65,0.66,2.34,0.35
+Usable stations,Post-monsoon (ON),48825,1.57,2.16,0.59,1.84,0.32
+Usable stations,Pre-monsoon (MAM),73882,2.89,2.95,0.06,2.09,0.44
+Usable stations,Winter (DJF),70061,1.68,2.32,0.64,1.85,0.26

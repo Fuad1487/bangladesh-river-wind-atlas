@@ -1,0 +1,39 @@
+station_id,station,source,lat,lon,n_pairs,pct_calm_obs,obs_mean_ms,era5_mean_ms,bias_ms,rmse_ms,r_3hourly,r_monthly_cycle,ratio_obs_to_era5,quality
+41850099999,Tetulia  Panchagor,BMD synoptic (NOAA),26.35,88.6,15797,59.3,0.46,1.83,1.37,1.69,0.32,0.93,0.25,poor exposure
+41862199999,Rajarhat Kurigram,BMD synoptic (NOAA),25.8,89.55,17096,42.5,0.63,2.11,1.47,1.88,0.31,0.91,0.3,poor exposure
+41858099999,Saidpur,BMD synoptic (NOAA),25.75,88.917,17629,46.3,1.44,2.11,0.67,1.61,0.43,0.97,0.68,usable
+41859099999,Rangpur,BMD synoptic (NOAA),25.733,89.233,18527,48.4,0.57,2.14,1.57,1.85,0.41,0.88,0.27,poor exposure
+41863099999,Dinajpur,BMD synoptic (NOAA),25.65,88.683,17926,41.1,0.62,2.1,1.48,1.79,0.39,0.9,0.29,poor exposure
+41883099999,Bogra,BMD synoptic (NOAA),24.85,89.367,15005,47.7,0.66,2.23,1.57,1.87,0.45,0.91,0.3,poor exposure
+41886099999,Mymensingh,BMD synoptic (NOAA),24.717,90.433,17852,44.6,0.81,2.04,1.23,1.65,0.46,0.93,0.4,poor exposure
+41895099999,Shah Mokhdum,BMD synoptic (NOAA),24.437,88.617,18003,31.4,0.84,2.31,1.47,1.76,0.53,0.87,0.36,poor exposure
+41915099999,Srimangal,BMD synoptic (NOAA),24.3,91.733,17538,54.3,0.56,1.8,1.24,1.61,0.38,0.82,0.31,poor exposure
+41909099999,Tangail,BMD synoptic (NOAA),24.25,89.933,17997,64.9,0.37,2.3,1.92,2.19,0.44,0.9,0.16,poor exposure
+41907099999,Ishurdi,BMD synoptic (NOAA),24.153,89.049,18450,45.9,0.64,2.34,1.7,1.96,0.52,0.91,0.27,poor exposure
+VGHS,Dhaka airport (METAR),Airport METAR (IEM),23.8433,90.3978,85089,21.2,2.58,2.39,-0.19,1.79,0.54,0.95,1.08,usable
+41922099999,Hazrat Shahjalal Intl,BMD synoptic (NOAA),23.843,90.398,83083,22.0,2.56,2.39,-0.17,1.53,0.6,0.94,1.07,usable
+41923099999,Tejgaon,BMD synoptic (NOAA),23.779,90.383,18547,59.0,0.6,2.46,1.86,2.21,0.44,0.87,0.24,poor exposure
+41926099999,Chuadanga,BMD synoptic (NOAA),23.65,88.817,18022,61.5,0.42,2.38,1.96,2.22,0.42,0.8,0.18,poor exposure
+41929099999,Faridpur,BMD synoptic (NOAA),23.6,89.85,17973,53.9,0.6,2.45,1.85,2.13,0.54,0.88,0.25,poor exposure
+41933099999,Comilla,BMD synoptic (NOAA),23.433,91.183,17908,54.4,0.64,2.42,1.77,2.11,0.51,0.92,0.27,poor exposure
+41941099999,Chandpur,BMD synoptic (NOAA),23.267,90.7,17809,47.5,0.75,2.6,1.85,2.3,0.38,0.81,0.29,poor exposure
+41939099999,Madaripur,BMD synoptic (NOAA),23.167,90.183,17280,94.4,0.07,2.47,2.4,2.7,0.25,0.55,0.03,poor exposure
+41943099999,Feni,BMD synoptic (NOAA),23.033,91.417,18505,52.9,0.68,2.54,1.86,2.23,0.49,0.93,0.27,poor exposure
+41953099999,Maijdicourt,BMD synoptic (NOAA),22.867,91.1,17917,54.6,0.81,2.74,1.93,2.31,0.56,0.95,0.29,poor exposure
+41947099999,Khulna,BMD synoptic (NOAA),22.783,89.533,17999,70.0,0.43,2.49,2.06,2.3,0.57,0.93,0.17,poor exposure
+41950099999,Barisal,BMD synoptic (NOAA),22.75,90.367,18580,73.5,0.42,2.62,2.2,2.5,0.52,0.89,0.16,poor exposure
+41946099999,Satkhira,BMD synoptic (NOAA),22.717,89.083,18015,70.4,0.4,2.47,2.06,2.37,0.43,0.85,0.16,poor exposure
+41951099999,Bhola,BMD synoptic (NOAA),22.683,90.65,17880,56.4,0.61,2.78,2.17,2.49,0.55,0.88,0.22,poor exposure
+41958099999,Mongla,BMD synoptic (NOAA),22.6,89.5,17512,52.1,0.5,2.49,2.0,2.26,0.53,0.9,0.2,poor exposure
+41965099999,Sitakundu,BMD synoptic (NOAA),22.583,91.7,13824,65.6,0.46,3.26,2.8,3.19,0.48,0.85,0.14,poor exposure
+41966099999,Rangamati,BMD synoptic (NOAA),22.533,92.2,16787,44.0,0.37,1.95,1.58,1.86,0.33,0.91,0.19,poor exposure
+41964099999,Sandwip,BMD synoptic (NOAA),22.483,91.433,16512,50.9,0.55,4.2,3.65,4.11,0.57,0.92,0.13,poor exposure
+41963099999,Hatia,BMD synoptic (NOAA),22.433,91.1,16034,36.6,0.7,4.02,3.33,3.8,0.53,0.9,0.17,poor exposure
+41977099999,Chittagong (Ambagan),BMD synoptic (NOAA),22.35,91.817,6436,53.6,0.76,3.5,2.74,3.17,0.49,0.85,0.22,poor exposure
+41960099999,Patuakhali,BMD synoptic (NOAA),22.333,90.333,17896,50.4,0.58,2.71,2.13,2.48,0.48,0.72,0.21,poor exposure
+41978099999,Shah Amanat Intl,BMD synoptic (NOAA),22.25,91.813,18652,24.1,2.62,3.77,1.14,2.29,0.53,0.92,0.7,usable
+VGEG,Chattogram airport (METAR),Airport METAR (IEM),22.2496,91.8133,55447,20.8,2.9,3.76,0.86,2.31,0.48,0.9,0.77,usable
+41984099999,Khepupara,BMD synoptic (NOAA),21.983,90.233,17599,69.3,0.6,3.46,2.86,3.22,0.59,0.91,0.17,poor exposure
+41989099999,Kutubdia,BMD synoptic (NOAA),21.817,91.85,16202,12.2,1.42,4.28,2.85,3.45,0.43,0.87,0.33,usable
+41992099999,Coxs Bazar,BMD synoptic (NOAA),21.452,91.964,18637,50.0,1.13,3.78,2.65,3.14,0.49,0.84,0.3,usable
+41998099999,Teknaf,BMD synoptic (NOAA),20.867,92.3,11246,70.0,0.54,3.46,2.93,3.38,0.37,0.58,0.15,poor exposure
