@@ -1,0 +1,16 @@
+numpy
+pandas
+xarray
+netCDF4
+scipy
+shapely
+pyproj
+openpyxl
+statsmodels
+scikit-learn
+xgboost
+shap
+matplotlib
+global-land-mask
+requests
+cdsapi

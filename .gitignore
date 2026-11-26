@@ -1,0 +1,8 @@
+.cdsapirc
+*.nc
+era5_hourly/
+station_data/
+noaa_stations/
+venv/
+__pycache__/
+*.pkl
