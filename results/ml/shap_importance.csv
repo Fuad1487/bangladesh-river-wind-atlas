@@ -1,0 +1,8 @@
+feature,mean_abs_shap_ms
+month,0.696374
+dist_coast_km,0.57563853
+hour,0.26187313
+longitude,0.25422713
+latitude,0.23177195
+land,0.11601581
+dist_river_km,0.09844845

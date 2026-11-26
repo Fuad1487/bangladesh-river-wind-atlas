@@ -1,0 +1,17 @@
+test,subset,method,n,rmse_ms,mae_ms,bias_ms,r2
+A: new years (2024-2025),all 475 nodes,Climatology 2016-2023 (no model),136800,0.329,0.253,-0.064,0.9564
+A: new years (2024-2025),199 Bangladesh nodes,Climatology 2016-2023 (no model),57312,0.289,0.226,-0.06,0.9356
+A: new years (2024-2025),all 475 nodes,Random Forest,136800,0.331,0.254,-0.064,0.9559
+A: new years (2024-2025),199 Bangladesh nodes,Random Forest,57312,0.29,0.227,-0.06,0.9352
+A: new years (2024-2025),all 475 nodes,XGBoost,136800,0.333,0.256,-0.064,0.9554
+A: new years (2024-2025),199 Bangladesh nodes,XGBoost,57312,0.293,0.229,-0.06,0.934
+A: new years (2024-2025),all 475 nodes,"XGBoost, lat/lon/month/hour only",136800,0.371,0.288,-0.064,0.9447
+A: new years (2024-2025),199 Bangladesh nodes,"XGBoost, lat/lon/month/hour only",57312,0.323,0.253,-0.059,0.9196
+B: new places (1-degree blocks held out),all 475 nodes,Inverse-distance interpolation,136800,0.421,0.27,0.028,0.9219
+B: new places (1-degree blocks held out),199 Bangladesh nodes,Inverse-distance interpolation,57312,0.337,0.216,0.045,0.9004
+B: new places (1-degree blocks held out),all 475 nodes,Random Forest,136800,0.372,0.246,0.011,0.939
+B: new places (1-degree blocks held out),199 Bangladesh nodes,Random Forest,57312,0.293,0.192,-0.024,0.925
+B: new places (1-degree blocks held out),all 475 nodes,XGBoost,136800,0.352,0.242,0.005,0.9453
+B: new places (1-degree blocks held out),199 Bangladesh nodes,XGBoost,57312,0.277,0.198,-0.038,0.9327
+B: new places (1-degree blocks held out),all 475 nodes,"XGBoost, lat/lon/month/hour only",136800,0.435,0.293,0.03,0.9165
+B: new places (1-degree blocks held out),199 Bangladesh nodes,"XGBoost, lat/lon/month/hour only",57312,0.394,0.252,0.035,0.8643
